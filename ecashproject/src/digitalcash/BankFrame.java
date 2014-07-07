@@ -1,7 +1,7 @@
 /*
  * This code contains the code for 'Bank'
  * The Bank accept money order from the merchant and verifies the customers identity
- * If verfication is succesful, it deducts the amount from customer's account 
+ * If verification is successful, it deducts the amount from customer's account 
  */
 
 package digitalcash;
